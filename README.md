@@ -14,6 +14,6 @@ This project focuses on the analysis and prediction of postpartum depression (PP
 <b>HTML:</b> Utilized for creating the Web page to display questionaries and Prediction results.
 
 <h2>Dataset Description</h2>
-<li> The dataset utilized in this project is originally collected from a medical hospital using questionnaire administered through survey and is currently uploaded on kaggle.com by researcher. </li>
-<li> The dataset initially consisted of 1503 records. To enhance its size, bootstrapping technique was used, resulting in an expansion to one and half million records. </li>
+<li>The dataset utilized in this project is originally collected from a medical hospital using questionnaire administered through survey and is currently uploaded on kaggle.com by researcher.</li>
+<li>The dataset initially consisted of 1503 records. To enhance its size, bootstrapping technique was used, resulting in an expansion to one and half million records.</li>
 <li>It includes 10 attributes.</li>
