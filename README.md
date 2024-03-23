@@ -37,7 +37,8 @@ Tableau was employed to create insightful dashboards that provide a comprehensiv
 Following data visualization, we applied machine learning techniques to predict the likelihood of new mothers experiencing suicidal thoughts or attempting suicide based on their responses to a set of questions related to PPD symptoms. We used categorical encoding, specifically label encoding, to preprocess the data for model training. A Random Forest Classifier was chosen as the predictive model due to its robustness and ability to handle complex datasets.
 
 <h2>Model Deployment and Web App using Flask</h2>
-The trained machine learning model was deployed using joblib and a user interface (UI) was created using Flask for healthcare professionals. The UI, built using HTML, allows doctors to input patient responses to a predefined set of questions. Upon clicking the "PREDICT" button, the model generates predictions indicating the likelihood of suicidal thoughts or attempts. The predictions are categorized into no indications of suicidal behavior, likely presence of suicidal thoughts, or extremely likely presence of suicidal thoughts.<br>
+The trained machine learning model was deployed using joblib and a user interface (UI) was created using Flask for healthcare professionals. The UI, built using HTML, allows doctors to input patient responses to a predefined set of questions. Upon clicking the "PREDICT" button, the model generates predictions indicating the likelihood of suicidal thoughts or attempts. The predictions are categorized into no indications of suicidal behavior, likely presence of suicidal thoughts, or extremely likely presence of suicidal thoughts.
+
 ![Web Application](https://github.com/ikram-patel/Visualization-Predictive-modeling-Post-Partum-Depression-using-Tableau-and-Python/assets/128078888/1ac503f4-bd9c-4112-bfb3-e6b4f79526ae)
 
 
