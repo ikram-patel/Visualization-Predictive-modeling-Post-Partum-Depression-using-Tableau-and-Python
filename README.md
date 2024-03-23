@@ -28,7 +28,10 @@ The dataset underwent thorough cleaning and preprocessing to handle missing valu
 For Machine learning, the records with unknown's were deleted from the data set and categorical encoding was used, specifically label encoding, to preprocess the data for model training.
 
 <h2>Visualization</h2>
-Tableau was employed to create insightful dashboards that provide a comprehensive visualization of the postpartum depression data. The dashboards offer interactive visualizations and insights into the prevalence and distribution of various PPD symptoms, allowing for a deeper understanding of the data.
+Tableau was employed to create insightful dashboards that provide a comprehensive visualization of the postpartum depression data. The dashboards offer interactive visualizations and insights into the prevalence and distribution of various PPD symptoms, allowing for a deeper understanding of the data.<br>
+
+![Postpartum Depression Dashboard](https://github.com/ikram-patel/Visualization-Predictive-modeling-Post-Partum-Depression-using-Tableau-and-Python/assets/128078888/8fb85902-de55-4019-a1e6-b00acd0e31db)
+
 
 
 
