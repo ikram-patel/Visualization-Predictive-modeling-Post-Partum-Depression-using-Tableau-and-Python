@@ -38,6 +38,11 @@ Following data visualization, we applied machine learning techniques to predict 
 
 <h2>Model Deployment and Web App using Flask</h2>
 The trained machine learning model was deployed using joblib and a user interface (UI) was created using Flask for healthcare professionals. The UI, built using HTML, allows doctors to input patient responses to a predefined set of questions. Upon clicking the "PREDICT" button, the model generates predictions indicating the likelihood of suicidal thoughts or attempts. The predictions are categorized into no indications of suicidal behavior, likely presence of suicidal thoughts, or extremely likely presence of suicidal thoughts.<br>
+![Web Application](https://github.com/ikram-patel/Visualization-Predictive-modeling-Post-Partum-Depression-using-Tableau-and-Python/assets/128078888/1ac503f4-bd9c-4112-bfb3-e6b4f79526ae)
+
+
+<h2>Presentation and Video Demonstration</h2>
+To provide a demonstration of our project, we have recorded a video demonstration showcasing the Tableau dashboard and the Web Application. The video offers a brief overview of the visualization dashboard and demonstrates how healthcare professionals can utilize the prediction model in clinical settings.
 
 
 
