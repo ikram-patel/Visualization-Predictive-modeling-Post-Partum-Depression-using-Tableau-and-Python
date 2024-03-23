@@ -17,3 +17,14 @@ This project focuses on the analysis and prediction of postpartum depression (PP
 <li>The dataset utilized in this project is originally collected from a medical hospital using questionnaire administered through survey and is currently uploaded on kaggle.com by researcher.</li>
 <li>The dataset initially consisted of 1503 records. To enhance its size, bootstrapping technique was used, resulting in an expansion to one and half million records.</li>
 <li>It includes 10 attributes.</li>
+
+<h2>Data Processing</h2> 
+The dataset originally consisted of 1503 records, which were augmented using the law of large numbers and bootstrapping techniques to enhance its size and representativeness.
+
+<h3>Visualization</h3>
+The dataset underwent thorough cleaning and preprocessing to handle missing values and ensure data consistency. Unanswered questions were filled with "unknown" values to maintain integrity. The cleaned dataset was then transformed and formatted to be compatible with Tableau for visualization purposes.
+
+<h3>Machine Learning</h3>
+For Machine learning, the records with unknown's were deleted from the data set and categorical encoding was used, specifically label encoding, to preprocess the data for model training.
+
+
