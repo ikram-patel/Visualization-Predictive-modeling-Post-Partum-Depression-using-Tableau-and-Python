@@ -53,5 +53,8 @@ Link to Video Demonstration: [click here](https://youtu.be/azaCJs55D0g)
 <li>Implementation of precautionary measures recommended by healthcare professionals.</li>
 <li>Facilitation of patient experiences sharing to offer support and insights to others.</li>
 
-
-
+<h2>How to Use this Repository</h2>
+<b>1. Clone the Repository:</b> Clone this repository to your local machine to access all project files.<br>
+<b>2. Data:</b> Find the preprocessed and engineered Post Partum dataset in the designated directory.<br>
+<b>3. Visualization:</b> Explore the interactive dashboard to gain insights into Post Partum dynamics.<br>
+<b>4. Machine Learning:</b> Explore the Machine learning code in python<br>
