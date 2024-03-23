@@ -47,6 +47,11 @@ To provide a demonstration of our project, we have recorded a video demonstratio
 
 Link to Video Demonstration: [click here](https://youtu.be/azaCJs55D0g)
 
+<h2>Project Benefits</h2>
+<li>Early detection and intervention to prevent suicide.</li>
+<li>Enhancement of mental well-being.</li>
+<li>Implementation of precautionary measures recommended by healthcare professionals.</li>
+<li>Facilitation of patient experiences sharing to offer support and insights to others.</li>
 
 
 
